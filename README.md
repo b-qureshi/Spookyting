@@ -1,15 +1,7 @@
-Created by Bilal Qureshi
+# Spookyting 🎃
 
-Thanks for downloading the game!
+### A short survival horror game
 
-**** To install: ****
+A passion project to learn Unity and C# as well as having fun along the way.
 
-1. Unzip file to a new folder
-2. Open the folder
-3. Open "HorrorGame" Application
-
-If the game appears to be laggy, just configure the
-settings in the options menu that are suited to you.
-
-I'm happy to take any feedback on what can be 
-improved and if there are any glitches.
+This repo contains the project files. The download for the build is hosted on itch.io: **[Spookyting](https://gsozz.itch.io/spookyting)**
